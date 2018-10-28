@@ -26,7 +26,7 @@ class Contact extends React.Component {
 							<button type="submit" className="btn btn-primary">Send Message</button>
 						</form>
 					</div>
-				</div>
+				</div> 
 			</div>
 		)
 	}
